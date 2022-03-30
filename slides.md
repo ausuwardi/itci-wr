@@ -47,6 +47,31 @@ Next:
 
 ---
 
+# Data Lake
+
+Project
+
+This Week:
+- Draft plan
+- Testing PrestoDB
+
+Next:
+- PoC FluentD+MinIO+Presto+Redash
+
+---
+
+# Container Ready Environment
+
+Project
+
+This Week:
+- Configure DNS & Ingress
+
+Next:
+- Reference stack for Yii Framework
+
+---
+
 # Others
 
 Ad-Hoc:
@@ -58,9 +83,9 @@ Ad-Hoc:
 
 # Time Consumed
 
-- Project: 20%
-- Operation: 70%
-- Ad-Hoc: 10%
+- Project: 30%
+- Operation: 65%
+- Ad-Hoc: 5%
 
 ---
 layout: center
