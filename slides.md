@@ -62,8 +62,8 @@ Ad-Hoc:
 
 # Time Consumed
 
-- Project: 70%
-- Operation: 25%
+- Project: 60%
+- Operation: 35%
 - Ad-Hoc: 5%
 
 ---
